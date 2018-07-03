@@ -1,8 +1,8 @@
 # Quasaar-Box
 A small sound/music project for Arduino
 
-*** This sketch uses the Arduino pitch.h library. ***
-You will need to download that library and add it to your sketch folder.
+*** This sketch uses the Arduino pitches.h library. ***
+You will need to download that library and add it to your sketch folder if it's not already there.
 Read more notes in the Arduino Sketch file.
 
 MATERIALS
